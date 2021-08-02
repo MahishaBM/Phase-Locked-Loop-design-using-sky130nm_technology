@@ -35,7 +35,7 @@ Output of VCO is scaled to ref signal so to remove frequency divider is included
 # Final PLL layout<br/><br/>
 <br/>PLL waveform<br/><br/>![pll_wf](https://user-images.githubusercontent.com/88282645/127857143-ff654f03-1f6c-4c11-97c0-c228ba51f5a9.png)<br/><br/>PLL layout<br/><br/>
 ![pll_lay](https://user-images.githubusercontent.com/88282645/127857329-5fdfca08-f4b7-4912-8199-b7e194f20911.png)
-# Acknowledgement <br/><br/>
+# Acknowledgement <br/>
 1. Kunal Ghosh
 2. Lakshmi Sathi
 3. VSD IAT
